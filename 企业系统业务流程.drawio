@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T07:20:02.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="ju7bgm0TWGH-9U-P62a0" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T07:20:17.526Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="kQDvnbnaNPvfgOqEV8Fr" version="20.8.22" type="github">
   <diagram name="第 1 页" id="oS_T3YQHkIIEAmdeOFNd">
     <mxGraphModel dx="954" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
@@ -45,7 +45,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yH1Ucr6-FS49Y7EixBjq-3" value="中控对接" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-3" value="中控对接" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yH1Ucr6-FS49Y7EixBjq-10" value="业务系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
