@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T07:14:26.171Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="mPOUTokYq1V2fF19ZAzd" version="20.8.22" type="github"><diagram name="第 1 页" id="oS_T3YQHkIIEAmdeOFNd">jZJNT4QwEIZ/DUcTPgR3r+KyXtbEkGg8FjrSmkJJKQL+eoud8pHNJl6a6TPT6cw740VpPZ4VadlFUhBe6NPRi568MDzG9+acwWRBEsYWVIpTi4IV5PwHEPpIe06h2wVqKYXm7R6Wsmmg1DtGlJLDPuxTiv2vLangCuQlEdf0nVPNLD344cPqeAZeMfd14CdH66qJC8deOkaoHDYoOnlRqqTU1qrHFMSsnlPGvstueJfSFDT6Pw+Kt+wr80lx7j6giC+v3Usv7jDLNxE9tozF6slpoGTfUJiT+F70ODCuIW9JOXsHM3TDmK6FuQXGxHSgNIw36wyW7s3egKxBq8mEuAcHFAx3JsbrsA4gcJqyjfYJMoIzr5bMqyjGQF3cddX/z7dZ4+j0Cw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-07T07:20:02.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36 Edg/90.0.818.56" etag="ju7bgm0TWGH-9U-P62a0" version="20.8.22" type="github">
+  <diagram name="第 1 页" id="oS_T3YQHkIIEAmdeOFNd">
+    <mxGraphModel dx="954" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bVFjF0abGsYeb5MQsNul-1" target="yH1Ucr6-FS49Y7EixBjq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-5" value="mq对接" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yH1Ucr6-FS49Y7EixBjq-4">
+          <mxGeometry x="-0.1417" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bVFjF0abGsYeb5MQsNul-1" value="人事入离职系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yH1Ucr6-FS49Y7EixBjq-1" target="yH1Ucr6-FS49Y7EixBjq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-7" value="http推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yH1Ucr6-FS49Y7EixBjq-6">
+          <mxGeometry x="-0.6" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-1" value="运营权限系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yH1Ucr6-FS49Y7EixBjq-2" target="yH1Ucr6-FS49Y7EixBjq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-9" value="数据推送" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yH1Ucr6-FS49Y7EixBjq-8">
+          <mxGeometry x="-0.0583" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-2" value="其它..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yH1Ucr6-FS49Y7EixBjq-3" target="yH1Ucr6-FS49Y7EixBjq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-12" value="http" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yH1Ucr6-FS49Y7EixBjq-11">
+          <mxGeometry x="0.3067" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-3" value="中控对接" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yH1Ucr6-FS49Y7EixBjq-10" value="业务系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
